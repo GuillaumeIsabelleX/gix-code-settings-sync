@@ -19,7 +19,7 @@ jobs:
     steps:
       #- checkout
 #https://github.com/GuillaumeIsabelleX/
-      - run: git clone https://${GITHUB_TOKEN}@github.com/GuillaumeIsabelleX/deko-tree-overviewing.git .
+      - run: git clone https://${GITHUB_TOKEN}@github.com/GuillaumeIsabelleX/gix-code-settings-sync.git .
       #GITHUB_TOKEN
 
      # Install VSCE 
