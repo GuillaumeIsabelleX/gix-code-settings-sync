@@ -1,10 +1,10 @@
 {
-  "name": "code-settings-sync",
+  "name": "gix-code-settings-sync",
   "displayName": "Settings Sync",
   "description": "Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.",
   "version": "3.4.3",
   "icon": "images/logo-128.png",
-  "publisher": "Shan",
+  "publisher": "Guillaume Isabelle",
   "author": {
     "name": "Shan Khan",
     "url": "http://shanalikhan.github.io",
@@ -20,19 +20,19 @@
   },
   "badges": [
     {
-      "url": "https://vsmarketplacebadge.apphb.com/version/Shan.code-settings-sync.svg",
+      "url": "https://vsmarketplacebadge.apphb.com/version/Shan.gix-.svg",
       "description": "Latest Version",
-      "href": "https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync"
+      "href": "https://marketplace.visualstudio.com/items?itemName=Shan.gix-"
     },
     {
-      "url": "https://vsmarketplacebadge.apphb.com/installs/Shan.code-settings-sync.svg",
+      "url": "https://vsmarketplacebadge.apphb.com/installs/Shan.gix-.svg",
       "description": "Total Downloads",
-      "href": "https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync"
+      "href": "https://marketplace.visualstudio.com/items?itemName=Shan.gix-"
     },
     {
-      "url": "https://vsmarketplacebadge.apphb.com/rating/Shan.code-settings-sync.svg",
+      "url": "https://vsmarketplacebadge.apphb.com/rating/Shan.gix-.svg",
       "description": "Ratings",
-      "href": "https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync"
+      "href": "https://marketplace.visualstudio.com/items?itemName=Shan.gix-"
     },
     {
       "url": "https://img.shields.io/badge/Join%20Community-slack-green.svg",
@@ -42,19 +42,19 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shanalikhan/code-settings-sync.git"
+    "url": "https://github.com/guillaumeisabellex/gix-code-settings-sync.git"
   },
   "bugs": {
-    "url": "https://github.com/shanalikhan/code-settings-sync/issues",
-    "email": "shanalikhan@hotmail.com"
+    "url": "https://github.com/guillaumeisabellex/gix-code-settings-sync/issues",
+    "email": "bugs@guillaumeisabelle.com"
   },
   "categories": [
     "Other"
   ],
   "keywords": [
     "vscode-sync",
-    "vscode-settings-sync",
-    "code-settings-sync",
+    "vsgix-",
+    "gix-",
     "settings-sync",
     "workspace-sync",
     "multi-root ready"
